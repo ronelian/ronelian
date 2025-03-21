@@ -30,7 +30,7 @@ I enjoy **building interactive applications, optimizing performance, and develop
 🍕 **Pizza Website**  
 🔹 Developed a **full-stack web application** with authentication & real-time orders.  
 
-🔗 **[Check out my GitHub repositories!](https://github.com/ronelianx)**  
+🔗 **[Check out my GitHub repositories!](https://github.com/ronelian)**  
 
 ---
 
